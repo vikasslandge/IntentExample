@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+     android:layout_margin="11dp">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/txt"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="35dp"
+        android:background="#41413d"
+        android:textColor="#ecd6d6"
+        android:text="@string/b1"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:id="@+id/b1"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="35dp"
+        android:background="#41413d"
+        android:textColor="#ecd6d6"
+        android:text="@string/b2"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:id="@+id/b2"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="35dp"
+        android:background="#41413d"
+        android:textColor="#ecd6d6"
+        android:text="@string/b3"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:id="@+id/b3"
+        />
+
+</LinearLayout>
