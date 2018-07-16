@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentExample</string>
+    <string name="b1">Dial</string>
+    <string name="b2">Next Window</string>
+    <string name="b3">Chrome</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="tv1">Welcome to the Programming World</string>
+</resources>
